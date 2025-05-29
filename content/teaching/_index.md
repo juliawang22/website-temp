@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Teaching and Outreach
+summary: 
 type: landing
 
 cascade:
@@ -13,7 +13,8 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Teaching and Outreach
+      text: My proudest moments have been in service and education. I am driven by two main goals -- increasing diversity & inclusion in STEM and Tech, and service and justice for the disablility community.
       filters:
         folders:
           - teaching
